@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class practtise_makes_perfect {
+public class practise_makes_perfect {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int prob[] = new int[4];
