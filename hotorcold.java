@@ -6,7 +6,7 @@ public class hotorcold {
         int t = scan.nextInt();
         while (t-- > 0) {
             int x = scan.nextInt();
-            if (x >= 20) {
+            if (x > 20) {
                 System.out.println("hot");
             } else {
                 System.out.println("cold");
