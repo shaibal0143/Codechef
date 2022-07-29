@@ -18,7 +18,7 @@ public class testiness {
             if (c > d) {
                 num2 = c;
             } else {
-                num2 => d;
+                num2 = d;
             }
             System.out.println(num1 + num2);
         }
