@@ -13,7 +13,7 @@ public class diff {
                 System.out.println(0);
             }
         }
-        scan.close();.
+        scan.close();
     }
 
 }
