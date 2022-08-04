@@ -8,7 +8,7 @@ public class Discount {
             int x = scan.nextInt();
             int dis = (100 - x);
             System.out.println(dis);
-        }
+         }
         scan.close();
     }
 
