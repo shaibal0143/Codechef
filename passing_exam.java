@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class passing_exam {
+public class passing_exam  {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
