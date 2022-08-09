@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class construct_n e{
+public class construct_n e {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
