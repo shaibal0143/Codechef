@@ -6,7 +6,7 @@ public class accuracy {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
         while (t-- > 0) {
-             int x = scan.nextInt();
+            int x = scan.nextInt();
             int y = scan.nextInt();
             int mid =  (x + y) / 2;
             if (x > mid) {
