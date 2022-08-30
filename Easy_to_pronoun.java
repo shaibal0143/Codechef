@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Easy_to_pronoun {
+public  class Easy_to_pronoun {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
