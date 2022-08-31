@@ -1,7 +1,7 @@
 import java.nio.channels.ScatteringByteChannel;
 import java.util.Scanner;
 
-public class  accuracy {
+public class accuracy {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
