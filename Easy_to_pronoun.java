@@ -6,7 +6,7 @@ public class Easy_to_pronoun {
         int t = scan.nextInt();
         while (t-- > 0) {
             int count = 0;
-            int n = scan.nextInt();
+             int n = scan.nextInt();
             String s = scan.next();
             for (int i = 0; i < n; i++) {
                 char ch = s.charAt(i);
