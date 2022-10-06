@@ -14,7 +14,7 @@ public class burgers {
             } else {
                 System.out.println(a);
             }
-        }
+        } 
     }
 
 }
