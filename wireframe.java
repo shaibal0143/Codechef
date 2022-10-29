@@ -7,7 +7,7 @@ public class wireframe {
         while (t-- > 0) {
             int n = scan.nextInt();
             int m = scan.nextInt();
-            int x = scan.nextInt();
+            int x = scan.nextInt(); 
             int c = 2 * (n + m) * x;
             System.out.println(c);
         }
