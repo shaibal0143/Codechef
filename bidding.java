@@ -11,7 +11,7 @@ public class bidding {
             int B = sc.nextInt();
             int C = sc.nextInt();
 
-            if (A > B && A > C) {
+            if (A > B && A > C) { 
                 System.out.println("Alice");
             } else if (B > A && B > C) {
                 System.out.println("Bob");
