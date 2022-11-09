@@ -12,7 +12,7 @@ public class age_limit {
                 System.out.println("yes"); 
             } else { 
                 System.out.println("no");
-            } 
+            }  
 
         }
     }
