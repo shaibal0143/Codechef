@@ -9,7 +9,7 @@ public class age_limit {
             int y = scan.nextInt();
             int a = scan.nextInt();
             if (a >= x && a < y) {
-                System.out.println("yes");
+                System.out.println("yes"); 
             } else { 
                 System.out.println("no");
             } 
