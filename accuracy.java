@@ -12,7 +12,7 @@ public class accuracy {
             if (x > mid) {
                 int dig = x - mid;
                 System.out.println(dig);
-            } else {
+            } else { 
                 int dig1 = y - mid;
                 System.out.println(dig1);
             }
