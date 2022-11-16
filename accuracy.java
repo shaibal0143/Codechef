@@ -11,7 +11,7 @@ public class accuracy {
             int mid =  (x + y) / 2; 
             if (x > mid) {
                 int dig = x - mid;
-                System.out.println(dig);
+                System.out.println(dig); 
             } else { 
                 int dig1 = y - mid;
                 System.out.println(dig1);
