@@ -8,7 +8,7 @@ public class accuracy {
         while (t-- > 0) {
             int x = scan.nextInt();
             int y = scan.nextInt();
-            int mid =  (x + y) / 2; 
+            int mid =  (x + y) / 2;  
             if (x > mid) {
                 int dig = x - mid;
                 System.out.println(dig); 
