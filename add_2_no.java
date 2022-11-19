@@ -11,5 +11,5 @@ public class add_2_no {
             System.out.println(a + b);
         }
 
-    }
+    } 
 }
