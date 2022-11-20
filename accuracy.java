@@ -14,7 +14,7 @@ public class accuracy {
                 System.out.println(dig); 
             } else {  
                 int dig1 = y - mid;
-                System.out.println(dig1);
+                System.out.println(dig1); 
             }
         }
         scan.close();
