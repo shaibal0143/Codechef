@@ -7,7 +7,7 @@ public class final_population {
         while (t-- > 0) {
             int x = scan.nextInt();
             int y = scan.nextInt();
-            int z = scan.nextInt();
+            int z = scan.nextInt(); 
             System.out.println(x - y + z);
         }
     }
