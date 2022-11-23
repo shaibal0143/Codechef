@@ -10,7 +10,7 @@ public class add_2_no {
             int b = scan.nextInt();
             System.out.println(a + b);
         }
-
+ 
     } 
 }
  
