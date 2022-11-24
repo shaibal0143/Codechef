@@ -13,7 +13,7 @@ import java.util.Scanner;
             int b = scan.nextInt();
             float sum1 = (x / a) * n;
             float sum2 = (y / b) * n;
-            if (sum1 > sum2) { 
+            if (sum1 > sum2) {  
                 System.out.println("dieasel");
             } else if (sum1 < sum2) {
                 System.out.println("petrol");
