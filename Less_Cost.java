@@ -8,7 +8,7 @@ import java.util.Scanner;
         while (t-- > 0) {
             int n = scan.nextInt();
             float x = scan.nextInt();  
-            float y = scan.nextInt();
+            float y = scan.nextInt(); 
             int a = scan.nextInt();
             int b = scan.nextInt();
             float sum1 = (x / a) * n;
