@@ -16,7 +16,7 @@ public class testiness {
                 num1 = b;
             }
             if (c > d) {
-                num2 = c;
+                num2 = c; 
             } else {
                 num2 = d;
             }
