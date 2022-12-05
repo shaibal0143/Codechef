@@ -9,7 +9,7 @@ class Codechef {
         int t = scan.nextInt();
         for (int i = 1; i <= t; i++) {
             int n = scan.nextInt();
-            int m = scan.nextInt();
+            int m = scan.nextInt(); 
             int sum = n * m;
             System.out.println(sum);
         }
