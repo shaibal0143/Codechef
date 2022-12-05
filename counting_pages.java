@@ -12,7 +12,7 @@ class Codechef {
             int m = scan.nextInt(); 
             int sum = n * m;
             System.out.println(sum);
-        }
+        } 
         scan.close();
     }
 }
