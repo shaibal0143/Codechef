@@ -12,7 +12,7 @@ public class StolenDoll {
             }     
             int x = 0;  
             for (int i = 0; i < n; i++) {
-                x = x ^ arr[i];
+                x = x ^ arr[i]; 
             }
             System.out.println(x); 
 
