@@ -11,7 +11,7 @@ public class secondhighestno {
             if ((a > b && a < c) || (a < b && a > c)) {
                 System.out.println(a);
             } else if ((b > c && b < a) ||( b < c && b > a)) {
-                System.out.println(b);
+                System.out.println(b); 
             } else { 
                 System.out.println(c);
             }
