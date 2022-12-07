@@ -12,7 +12,7 @@ public class secondhighestno {
                 System.out.println(a);
             } else if ((b > c && b < a) ||( b < c && b > a)) {
                 System.out.println(b);
-            } else {
+            } else { 
                 System.out.println(c);
             }
         }
