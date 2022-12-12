@@ -10,7 +10,7 @@ public class hotorcold {
                 System.out.println("hot");
             } else {
                 System.out.println("cold");
-            }
+            } 
         }
         scan.close();
     }
