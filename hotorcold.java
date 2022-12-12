@@ -13,6 +13,6 @@ public class hotorcold {
             } 
         }
         scan.close();
-    }
+    } 
 
 }
