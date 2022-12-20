@@ -11,7 +11,7 @@ public class feverornot {
             } else {
                 System.out.println("NO");
             }
-        }
+        } 
         scan.close();
 
     }
