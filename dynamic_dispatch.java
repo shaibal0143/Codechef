@@ -11,7 +11,7 @@ class phone {
 
 }
 
-class smartphone extends phone {
+class smartphone extends phone { 
     public void one() {
         System.out.println("I am doing Java2..");
     }
