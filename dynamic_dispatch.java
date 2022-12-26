@@ -4,7 +4,7 @@ class phone {
     public void one() {
         System.out.println("I am doing Java..");
     }
-
+ 
     public void hello() {
         System.out.println("This is a Phone..");
     }
