@@ -6,7 +6,7 @@ public class construct_n e {
         int n = scan.nextInt();
         int a = scan.nextInt();
         int b = scan.nextInt();
-        int y = n - a;
+        int y = n - a; 
         System.out.println(y);
         System.out.println(y - b);
     }
