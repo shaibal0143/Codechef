@@ -11,7 +11,7 @@ public class wireframe {
             int c = 2 * (n + m) * x;
             System.out.println(c);
         }
-        scan.close();
+        scan.close(); 
     }
 
 }
