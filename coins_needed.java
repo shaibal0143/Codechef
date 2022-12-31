@@ -8,7 +8,7 @@ public class coins_needed {
             int n = scan.nextInt();
             int c = n % 10;
             System.out.println(c);
-        }
+        } 
     }
 
 }
