@@ -9,7 +9,7 @@ public class determine_the_score {
             int n = scan.nextInt();
             int s = x / 10;
             // int sc = s * n;
-            System.out.println(s * n);
+            System.out.println(s * n); 
 
         }
     }
