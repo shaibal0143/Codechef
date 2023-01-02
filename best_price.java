@@ -7,7 +7,7 @@ public class best_price {
         int t = scan.nextInt();
         while (t-- > 0) {
             int x = scan.nextInt(); 
-            int y = scan.nextInt(); 
+            int y = scan.nextInt();  
             int z = scan.nextInt();
             int a = scan.nextInt();
             int sum1 = (x - z);
