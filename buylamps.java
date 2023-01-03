@@ -5,7 +5,7 @@ public class buylamps {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
         while (t-- > 0) { 
-            int n = scan.nextInt();
+            int n = scan.nextInt(); 
             int k = scan.nextInt(); 
             int x = scan.nextInt();
             int y = scan.nextInt();
