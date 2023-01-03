@@ -9,7 +9,7 @@ public class buylamps {
             int k = scan.nextInt(); 
             int x = scan.nextInt();
             int y = scan.nextInt();
-            if (x > y) {
+            if (x > y) { 
                 System.out.println((n - k) * y + k * x);
             } else {
                 System.out.println(n * x);
