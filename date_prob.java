@@ -7,7 +7,7 @@ public class date_prob {
         for (int i = 1; i <= t; i++) { 
             int a = scan.nextInt();
             int b = scan.nextInt();
-            if (a > b) {
+            if (a > b) { 
                 System.out.println("pass");
             } else {
                 System.out.println("fail");
