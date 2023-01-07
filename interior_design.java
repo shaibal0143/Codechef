@@ -8,7 +8,7 @@ public class interior_design {
             int x1 = scan.nextInt();
             int y1 = scan.nextInt();
             int x2 = scan.nextInt();
-            int y2 = scan.nextInt();
+            int y2 = scan.nextInt(); 
             int s1 = x1 + y1;
             int s2 = x2 + y2;
             if (s1 > s2) {
