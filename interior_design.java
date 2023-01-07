@@ -13,7 +13,7 @@ public class interior_design {
             int s2 = x2 + y2;
             if (s1 > s2) {
                 System.out.println(s2);
-            } else {
+            } else { 
                 System.out.println(s1);
             }
         }
