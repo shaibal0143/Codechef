@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class biryani_classes {
+public class biryani_classes { 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
