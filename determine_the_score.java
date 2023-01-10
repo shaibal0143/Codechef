@@ -11,7 +11,7 @@ public class determine_the_score {
             // int sc = s * n;
             System.out.println(s * n); 
 
-        }
+        } 
     }
 
 }
