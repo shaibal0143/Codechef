@@ -10,7 +10,7 @@ public class burgers {
             if (a < b) { 
                 System.out.println(a);
             } else if (a > b) {
-                System.out.println(b);
+                System.out.println(b); 
             } else {
                 System.out.println(a);
             }
