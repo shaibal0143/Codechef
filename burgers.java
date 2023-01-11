@@ -7,7 +7,7 @@ public class burgers {
         while (t-- > 0) {
             int a = scan.nextInt();
             int b = scan.nextInt();
-            if (a < b) {
+            if (a < b) { 
                 System.out.println(a);
             } else if (a > b) {
                 System.out.println(b);
