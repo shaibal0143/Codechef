@@ -13,7 +13,7 @@ public class best_of_2 {
                 System.out.println(b);
             }
         }
-    }  
+    }   
 
 }
  
