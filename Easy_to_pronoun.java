@@ -23,7 +23,7 @@ import java.util.Scanner;
             }
             if (count < 4) {
                 System.out.println("yes");
-            } else {
+            } else { 
                 System.out.println("no");
             }
 
