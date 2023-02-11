@@ -10,7 +10,7 @@ public class StolenDoll {
             for (int i = 0; i < n; i++) {
                 arr[i] = scan.nextInt(); 
             }     
-            int x = 0;   
+            int x = 0;    
             for (int i = 0; i < n; i++) { 
                 x = x ^ arr[i]; 
             }
