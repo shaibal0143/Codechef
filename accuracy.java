@@ -10,7 +10,7 @@ public class accuracy {
             int y = scan.nextInt();
             int mid =  (x + y) / 2;  
             if (x > mid) {  
-                int dig = x - mid;
+                int dig = x - mid; 
                 System.out.println(dig);  
             } else {   
                 int dig1 = y - mid;
