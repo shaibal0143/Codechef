@@ -7,7 +7,7 @@ public class diff {
         while (t-- > 0) {
             int a = scan.nextInt();
             int b = scan.nextInt();
-            if (a > b) {
+            if (a > b) { 
                 System.out.println(a - b);
             } else {
                 System.out.println(0);
