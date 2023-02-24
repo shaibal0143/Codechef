@@ -11,5 +11,5 @@ public class construct_n e {
         System.out.println(y - b);
     }
 
-}
+} 
  
