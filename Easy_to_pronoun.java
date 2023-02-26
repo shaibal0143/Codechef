@@ -26,7 +26,7 @@ import java.util.Scanner;
             } else { 
                 System.out.println("no");
             }
-
+  
         }
         scan.close();
     }
