@@ -9,7 +9,7 @@ public class errorsornot {
             int v = scan.nextInt();
             if (n >= v) {  
                 System.out.println("no");
-            } else {
+            } else { 
                 System.out.println("yes");
             }
         }
