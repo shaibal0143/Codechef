@@ -4,7 +4,7 @@ class atm {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
-        while (t-- > 0) {
+        while (t-- > 0) { 
             // total cash in the atm
             int x = scan.nextInt();
             // cash dispence
