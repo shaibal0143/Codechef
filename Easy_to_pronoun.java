@@ -2,7 +2,7 @@ import java.util.Scanner;
 
  public class Easy_to_pronoun {
      public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in); 
         int t = scan.nextInt();
         while (t-- > 0) {
             int count = 0; 
