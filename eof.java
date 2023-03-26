@@ -20,3 +20,4 @@ public class eof {
         scan.close();
     }
 }
+ 
