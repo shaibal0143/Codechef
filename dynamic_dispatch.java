@@ -9,7 +9,7 @@ class phone {
         System.out.println("This is a Phone..");
     }
 
-}
+} 
 
 class smartphone extends phone { 
     public void one() {
