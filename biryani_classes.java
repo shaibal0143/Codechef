@@ -8,7 +8,7 @@ public class biryani_classes {
             int x = scan.nextInt();
             int y = scan.nextInt();
             int s = x * y; 
-
+ 
             System.out.println(s);
 
         }
