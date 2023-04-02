@@ -5,7 +5,7 @@ public class cadies {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
         while (t-- > 0) { 
-            int a = scan.nextInt();
+            int a = scan.nextInt(); 
             int b = scan.nextInt();
             int c = a / b;
             if ((a % b == 0) && (c % 2 == 0)) {
