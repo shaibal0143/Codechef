@@ -9,7 +9,7 @@ public class flip_cards {
             int n = scan.nextInt();
             int x = scan.nextInt();
             if (x == 0) {
-                System.out.println(0);
+                System.out.println(0); 
             } else if (x == n) {
                 System.out.println(0);
             } else if (x < n / 2) {
