@@ -10,7 +10,7 @@ class atm {
             // cash dispence
             int n = scan.nextInt();
             String result = "";
-            int tmp = 0;
+            int tmp = 0; 
             for (int i = 0; i < n; i++) {
                 tmp = scan.nextInt();
                 if (tmp <= x) {
