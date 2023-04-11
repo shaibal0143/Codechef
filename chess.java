@@ -9,7 +9,7 @@ public class chess  {
             int min = n * 60; 
             int times = min / 20;
             System.out.println(times);
-        }
+        } 
 
     }
 
