@@ -6,7 +6,7 @@ public class geyser {
         int t = scan.nextInt();
         while (t-- > 0) {
             int x = scan.nextInt();
-            int y = scan.nextInt();
+            int y = scan.nextInt(); 
             int z = 2 * y;
             if (z > x) {
                 System.out.println(0);
