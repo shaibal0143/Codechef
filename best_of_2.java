@@ -9,7 +9,7 @@ public class best_of_2 {
             int b = scan.nextInt();
             if (a > b) {
                 System.out.println(a);
-            } else {
+            } else { 
                 System.out.println(b);
             }
         }
