@@ -9,7 +9,7 @@ public class construct_n e {
         int y = n - a; 
         System.out.println(y);
         System.out.println(y - b);
-    } 
+    }  
 
 } 
  
