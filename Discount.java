@@ -10,7 +10,7 @@ public class Discount {
             System.out.println(dis);
          }
         scan.close();
-    }
+    } 
 
 }  
   
