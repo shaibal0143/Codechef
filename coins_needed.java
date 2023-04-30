@@ -6,7 +6,7 @@ public class coins_needed {
         int t = scan.nextInt();
         for (int i = 1; i <= t; i++) { 
             int n = scan.nextInt();
-            int c = n % 10;
+            int c = n % 10; 
             System.out.println(c);
         } 
     }
