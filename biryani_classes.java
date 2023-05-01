@@ -9,7 +9,7 @@ public class biryani_classes {
             int y = scan.nextInt();
             int s = x * y; 
  
-            System.out.println(s);
+            System.out.println(s); 
 
         }
     }
