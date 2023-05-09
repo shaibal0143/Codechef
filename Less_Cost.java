@@ -11,7 +11,7 @@ import java.util.Scanner;
             float y = scan.nextInt(); 
             int a = scan.nextInt();   
             int b = scan.nextInt();
-            float sum1 = (x / a) * n;
+            float sum1 = (x / a) * n; 
             float sum2 = (y / b) * n;
             if (sum1 > sum2) {  
                 System.out.println("dieasel");
