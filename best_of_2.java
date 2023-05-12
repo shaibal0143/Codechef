@@ -5,7 +5,7 @@ public class best_of_2 {
         Scanner scan = new Scanner(System.in); 
         int t = scan.nextInt();
         while (t-- > 0) {
-            int a = scan.nextInt(); 
+            int a = scan.nextInt();  
             int b = scan.nextInt();
             if (a > b) {
                 System.out.println(a);
