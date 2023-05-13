@@ -6,7 +6,7 @@ import java.util.Scanner;
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();  
         while (t-- > 0) {  
-            int n = scan.nextInt();
+            int n = scan.nextInt(); 
             float x = scan.nextInt();  
             float y = scan.nextInt();  
             int a = scan.nextInt();   
