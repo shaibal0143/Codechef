@@ -3,7 +3,7 @@ import java.util.*;
 public class lastlevel {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int t = scan.nextInt();
+        int t = scan.nextInt(); 
         while (t-- > 0) {
             int k = scan.nextInt();
             int n = scan.nextInt();
