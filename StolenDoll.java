@@ -15,7 +15,7 @@ public class StolenDoll {
                 x = x ^ arr[i]; 
             }
             System.out.println(x); 
-
+ 
         }
         scan.close();
     }
