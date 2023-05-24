@@ -7,7 +7,7 @@ public class audible {
         for (int i = 0; i < t; i++) { 
             int x = sc.nextInt();
             if (x >= 67 && x <= 45000) {
-                System.out.println("yes"); 
+                System.out.println("yes");  
             } else {
                 System.out.println("no");
             }
