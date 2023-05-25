@@ -11,7 +11,7 @@ public class bread {
             int s = m * k;
             if (s >= n) {
                 System.out.println("yes");
-            } else {
+            } else { 
                 System.out.println("no");
             }
         }
