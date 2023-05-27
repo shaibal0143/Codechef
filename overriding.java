@@ -6,7 +6,7 @@ class a {
     public int method1() {
         return 4;
     }
-
+ 
     public void method2() {
         System.out.println("I am a method of class a");
     }
