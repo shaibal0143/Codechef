@@ -5,7 +5,7 @@ import java.util.Scanner;
         Scanner scan = new Scanner(System.in); 
         int t = scan.nextInt();
         while (t-- > 0) {
-            int count = 0; 
+            int count = 0;  
             int n = scan.nextInt(); 
             String s = scan.next();  
             for (int i = 0; i < n; i++) {  
